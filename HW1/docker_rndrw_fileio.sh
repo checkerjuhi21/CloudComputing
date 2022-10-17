@@ -1,0 +1,15 @@
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 prepare 
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 run
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 cleanup
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 prepare 
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 run
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 cleanup
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 prepare 
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 run
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 cleanup
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 prepare 
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 run
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 cleanup
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 prepare 
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 run
+sysbench --test=fileio --file-total-size=3G --time=25 --file-test-mode=rndrw --num-threads=4 cleanup
